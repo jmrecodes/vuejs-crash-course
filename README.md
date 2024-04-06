@@ -2,15 +2,11 @@
 
 Small project implementation of the Vue.js crash course of Edwin Diaz from https://www.udemy.com/course/vuejs-fast-crash-course/
 
-Home:
+Home: (route - /)
 ![image](https://github.com/jmrecodes/vuejs-crash-course/assets/38583661/12a7ab86-7133-41a6-ac2b-7c9ceaa2b81b)
 
-Posts:
+Posts: (route - /posts)
 ![image](https://github.com/jmrecodes/vuejs-crash-course/assets/38583661/e74af198-bd79-4b23-b9f6-86ddc0d44eeb)
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
 ## Customize configuration
 
