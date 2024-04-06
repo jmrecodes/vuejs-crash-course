@@ -1,6 +1,12 @@
 # vuejs-crash-course
 
-This template should help get you started developing with Vue 3 in Vite.
+Small project implementation of the Vue.js crash course of Edwin Diaz from https://www.udemy.com/course/vuejs-fast-crash-course/
+
+Home:
+![image](https://github.com/jmrecodes/vuejs-crash-course/assets/38583661/12a7ab86-7133-41a6-ac2b-7c9ceaa2b81b)
+
+Posts:
+![image](https://github.com/jmrecodes/vuejs-crash-course/assets/38583661/e74af198-bd79-4b23-b9f6-86ddc0d44eeb)
 
 ## Recommended IDE Setup
 
